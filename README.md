@@ -1,1 +1,1 @@
-Demo Node App for Pipeline Testing
+Sample Test Application
